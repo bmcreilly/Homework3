@@ -1,0 +1,110 @@
+body {
+  flex-grow:
+  
+}
+
+#logo {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #f30000;
+}
+
+#sublogo {
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #b3b3b3;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: 0px;
+  padding: 10px;
+  text-align: left;
+}
+
+.mainnav {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 300;
+  background: black;
+  color: white;
+  text-decoration: none;
+  padding: 9px;
+}
+
+.date {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #cccccc;
+}
+
+.blogtitle {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: black;
+}
+
+p{
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #b3b3b3;
+}
+
+Article p:first-of-type:first-letter {
+font-size: 100px;
+font-family: sans-serif;
+font-weight: bold;
+color: #b3b3b3;
+}
+
+ .blognav {
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #f30000;
+  text-decoration: none;
+  text-align: right;
+}
+
+h4 {
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #b3b3b3;
+}
+
+h5 {
+  font-size: 12px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  color: #b3b3b3;
+}
+
+aside nav {
+  float: right;
+  padding: 0 0 0 40px;
+}
+
+aside div {
+  float: right;
+  padding: 0 0 0 40px;
+}
+
+#dots{
+  color: #b3b3b3;
+}
+
+.bottomnav {
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #f30000;
+  text-decoration: none;
+}
